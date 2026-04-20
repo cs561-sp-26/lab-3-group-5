@@ -4,22 +4,15 @@
 Hao Jun Chen RayHao2 
 
 ## Summary of Work Done in this Branch
-
+Add Side-menu feature into style.css
 
 ## Commits
 
 | Commit ID | Commit Message | # Lines Changed
 | --------- | ----------- | ---------------
 | 1d8d7d2 | update style.css's sidemenu feature | 37
-| 278a7ca | add global CSS Classes | 22
-
-### Total Commits Made in this Branch: 2
 
 
-### Merge Conflict Description (Delete if not applicable)
+### Total Commits Made in this Branch: 1
 
 
-### Rebase Description (Delete if not applicable)
-
-
-### Cherry Pick Description (Delete if not applicable)
