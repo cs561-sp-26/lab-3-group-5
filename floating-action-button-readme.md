@@ -8,11 +8,12 @@ Add floating button feature into style.css
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
-| 1d8d7d2 | update style.css's sidemenu feature | 37
+| Commit ID | Commit Message | # Lines Changed |
+|-----------|---------------|-----------------|
+| 75a6848 | add floating button feature in style.css | 5 |
+| 4f84640 | add floating button hover feature in style.css | 11 |
 
 
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 2
 
 
