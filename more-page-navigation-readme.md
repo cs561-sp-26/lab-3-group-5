@@ -13,7 +13,7 @@ Add more page navigation feature into style.css
 | 1ff685b | add base layout | 7 | 
 | 0b7323e | add mode page header |  11
 | 1777a8a | add mode page content |  4
-| c137010 | add mode page icon |  | 7
+| c137010 | add mode page icon | 7
 | b2fe6b4 | add mode page button container |  6
 | e7bb1e1 | add mode page button |  10
 
