@@ -8,12 +8,18 @@ Add more page navigation feature into style.css
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
-| 1ff685b | rebase onto the main branch | 0
+| Commit ID | Commit Message | # Lines Changed |
+|-----------|---------------|-----------------|
+| 1ff685b | add base layout |  | 7
+| 0b7323e | add mode page header |  | 11
+| 1777a8a | add mode page content |  | 4
+| c137010 | add mode page icon |  | 7
+| b2fe6b4 | add mode page button container |  6
+| e7bb1e1 | add mode page button |  10
 
 
-### Total Commits Made in this Branch: 1
+
+### Total Commits Made in this Branch: 6
 
 ### Rebase Description 
 
