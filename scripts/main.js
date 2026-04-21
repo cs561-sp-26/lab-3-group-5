@@ -46,3 +46,22 @@ const GlobalModeDialogNumbersToRoutes = new Map([
   [2, "/courses/addcourse"],
   [3, "/buddies/findbuddy"]
 ]);
+
+//The current mode (0, 1, 2, or 3)
+const GlobalCurrentMode = (() => {
+    let _currentMode= 0
+    const Store = {
+        get: () => _currentMode,
+        set: val => (_currentMode = val)
+    }
+    return Object.freeze(Store)
+})()
+
+const GlobalFocusedMode = (() => {
+    let _focusedMode= 0
+    const Store = {
+        get: () => _focusedMode,
+        set: val => (_focusedMode = val)
+    }
+    return Object.freeze(Store)
+})()
