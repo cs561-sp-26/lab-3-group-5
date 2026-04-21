@@ -272,3 +272,9 @@
     text-align: center;
     box-shadow: 2px 2px 3px #999;
 }
+
+/* float-btn:hover -- When float button is hovered, 
+change cursor to pointer */
+.float-btn:hover {
+cursor: pointer;
+}
