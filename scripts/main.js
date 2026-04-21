@@ -5,3 +5,9 @@
  *************************************************************************/
 let GlobalHistoryLogging = true;
 let GlobalDialogClose = null;
+
+/************************************/
+/* MENU VARIABLES                   */
+/************************************/
+const GlobalMenuBtn =  document.getElementById("menuBtn"); 
+const GlobalMenuItems = document.querySelectorAll("li[role='menuitem']");
