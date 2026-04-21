@@ -229,3 +229,11 @@
     text-align: center;
     font-size: 24px;
 }
+
+.mode-page-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+}
