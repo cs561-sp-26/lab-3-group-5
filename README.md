@@ -12,7 +12,7 @@
 
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
-| Hao Jun Chen | 3 | 52 | 17
+| Hao Jun Chen | 6 | 81 | 17
 | Name 2 | 8 | 20  | 2.5
 | Name 3 | 5 | 10 | 2
 | Name 4 | 3 | 5 | 1.67
