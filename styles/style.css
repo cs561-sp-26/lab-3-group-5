@@ -203,3 +203,9 @@
     padding-bottom: 6px;
     cursor: pointer;
 }   
+
+/* .modetab-selected -- Style the selected mode tab */
+.modetab-selected {
+    cursor: default;
+    border-bottom: 4px solid var(--main-red-color) !important;
+}
