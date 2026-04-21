@@ -10,9 +10,11 @@ Add more page navigation feature into style.css
 
 | Commit ID | Commit Message | # Lines Changed
 | --------- | ----------- | ---------------
-| 1d8d7d2 | update style.css's sidemenu feature | 37
+| 1ff685b | rebase onto the main branch | 0
 
 
 ### Total Commits Made in this Branch: 1
 
+Rebase Description (Delete if not applicable)
 
+In this branch, I rebased the feature/mode-page-layout branch onto the main branch. The commit ID for this rebase is 1ff685b. During the rebase process, a conflict occurred in the styles/style.css file because both this branch and the main branch modified overlapping sections of the stylesheet. I resolved the conflict by updating the CSS to correctly integrate the mode page layout styles with the existing styles in the main branch.
