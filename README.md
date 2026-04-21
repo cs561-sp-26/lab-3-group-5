@@ -12,7 +12,7 @@
 
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
-| Hao Jun Chen | 14 | 133 | 17
+| Hao Jun Chen | 17 | 144 | 17
 | Name 2 | 8 | 20  | 2.5
 | Name 3 | 5 | 10 | 2
 | Name 4 | 3 | 5 | 1.67
@@ -31,7 +31,7 @@
 ## Rebases
 | Name | # Rebases | Within Branch
 | --------- | ----------- | ---------------
-| Hao Jun Chen | 1 | feature/mode-page-layout
+| Hao Jun Chen | 1 | `feature/mode-page-layout`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
