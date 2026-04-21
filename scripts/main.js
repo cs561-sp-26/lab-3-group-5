@@ -65,3 +65,10 @@ const GlobalFocusedMode = (() => {
     }
     return Object.freeze(Store)
 })()
+
+//Array of mode tab button elements:
+const GlobalModeTabButtons = 
+  document.querySelectorAll("button[role='tab']");
+//Array of mode tab panel elements:
+const GlobalModeTabPanels = 
+  document.querySelectorAll("div[role='tabpanel']");
