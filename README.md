@@ -22,7 +22,7 @@
 ## Merge Conflicts Resolved
 | Name | # MCs Resolved | Merged Branch
 | --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
+| Hao Jun Chen | 1 | `feature/mode-page-layout`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
@@ -31,7 +31,7 @@
 ## Rebases
 | Name | # Rebases | Within Branch
 | --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
+| Hao Jun Chen | 1 | feature/mode-page-layout
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
