@@ -237,3 +237,10 @@
     height: 200px;
     width: 200px;
 }
+
+.mode-page-btn-container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 25%;  
+}
