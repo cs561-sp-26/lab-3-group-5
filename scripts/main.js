@@ -87,3 +87,9 @@ const GlobalDialogActionButtons =
 //array of "Cancel" buttons within the dialog boxes
 const GlobalDialogCancelButtons =
   document.querySelectorAll("button.cancel-button");
+
+/*****************************************************/
+/* OTHER UI COMPONENT VARIABLES */
+/*****************************************************/
+const GlobalSearchBtn = document.getElementById("searchBtn");
+const GlobalProfileBtn = document.getElementById("profileBtn");
