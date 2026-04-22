@@ -3,7 +3,7 @@
 
 ## Team Members
 - Hao Jun Chen (RayHao2)
-- Name 2 (GitHub ID 2)
+- Predrag Despotović (CyberWho)
 - Name 3 (GitHub ID 3)
 - Name 4 (GitHub ID 4)
 - Name 5 (GitHub ID 5)
@@ -13,7 +13,7 @@
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
 | Hao Jun Chen | 27 | 245 | 9
-| Name 2 | 8 | 20  | 2.5
+| Predrag Despotović | 6 | 250 | 41.7
 | Name 3 | 5 | 10 | 2
 | Name 4 | 3 | 5 | 1.67
 | Name 5 | 2 | 2  | 1
