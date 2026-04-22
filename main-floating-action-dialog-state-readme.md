@@ -8,11 +8,11 @@ Add FLOATING ACTION BUTTON AND MODAL DIALOG VARIABLES feature into main.js
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
-| 1d8d7d2 | update style.css's sidemenu feature | 37
+| Commit ID | Commit Message | # Lines Changed |
+|-----------|---------------|-----------------|
+| db98bd6 | Add floating action button and dialog references to main.js | 4 |
+| ee34164 | Add dialog action and cancel button references to main.js | 8 |
 
-
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 2
 
 
