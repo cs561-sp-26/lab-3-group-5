@@ -12,7 +12,7 @@
 
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
-| Hao Jun Chen | 17 | 144 | 17
+| Hao Jun Chen | 23 | 233 | 17
 | Name 2 | 8 | 20  | 2.5
 | Name 3 | 5 | 10 | 2
 | Name 4 | 3 | 5 | 1.67
@@ -40,7 +40,7 @@
 ## Cherry Picks
 | Name | # Cherry Picks | From Branch
 | --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
+| Hao Jun Chen| 3 | `feature/mode-tabs-navigation-js`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
