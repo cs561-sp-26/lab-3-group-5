@@ -16,3 +16,12 @@ Add modal dialog HTML and JavaScript interaction behavior for the SpeedScore app
 | 7db9c3d | Add keyboard focus trapping for dialog navigation | 39 |
 
 ### Total Commits Made in this Branch: 4
+
+## Cherry Pick
+- Cherry-picked 7db9c3d from feature/mode-action-dialogs to main
+  ```
+  git checkout main
+  git cherry-pick 7db9c3d
+  ```
+- Conflict occured during cherry-pick, file scripts/modeActions.js
+- Accepted the incoming file content with `git add scripts/modeActions.js`, then completed the cherry-pick with `git cherry-pick --continue`
