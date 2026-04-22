@@ -10,6 +10,17 @@ Add a document-level keydown event listener that routes keyboard events to the a
 
 | Commit ID | Commit Message | # Lines Changed |
 |-----------|---------------|-----------------|
-| TBD | Add document keydown listener for menu and tab keyboard routing | TBD |
+| 38453d4 | Add document keydown listener for menu and tab keyboard routing | 27 |
+| 112eb72 | Add keyboard routing for action dialog focus | 3 |
 
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 2
+
+## Rebase
+- Rebased feature/document-keydown-handler onto updated main
+- Reason: main advanced with commits 8b3eba1 (Add main.js script reference) and 2f92279 (Update commit statistics) after the branch was created
+- Commands used:
+  ```
+  git checkout feature/document-keydown-handler
+  git rebase main
+  ```
+- Rebase applied cleanly with no conflicts
