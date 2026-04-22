@@ -82,3 +82,8 @@ const GlobalModeActionButtons =
 //array of mode action dialog boxes
 const GlobalModeActionDialogs =
   document.querySelectorAll("div.action-dialog");
+const GlobalDialogActionButtons =
+  document.querySelectorAll("button.action-button");
+//array of "Cancel" buttons within the dialog boxes
+const GlobalDialogCancelButtons =
+  document.querySelectorAll("button.cancel-button");
