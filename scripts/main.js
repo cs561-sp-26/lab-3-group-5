@@ -72,3 +72,13 @@ const GlobalModeTabButtons =
 //Array of mode tab panel elements:
 const GlobalModeTabPanels = 
   document.querySelectorAll("div[role='tabpanel']");
+
+/*****************************************************/
+/* FLOATING ACTION BUTTON AND MODAL DIALOG VARIABLES */
+/*****************************************************/
+//Array of mode action buttons
+const GlobalModeActionButtons = 
+  document.querySelectorAll("button.float-btn");
+//array of mode action dialog boxes
+const GlobalModeActionDialogs =
+  document.querySelectorAll("div.action-dialog");
