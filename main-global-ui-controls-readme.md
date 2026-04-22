@@ -8,11 +8,12 @@ Add UI COMPONENT VARIABLES feature into main.js
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
-| 1d8d7d2 | update style.css's sidemenu feature | 37
+| Commit ID | Commit Message | # Lines Changed |
+|-----------|---------------|-----------------|
+| 2dfade5 | Add search and profile button references to main.js | 2 |
+| 09dc999 | Add skip link and mode tabs container references to main.js |  2|
 
 
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 2
 
 
