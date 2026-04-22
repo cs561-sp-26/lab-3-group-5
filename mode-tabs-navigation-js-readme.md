@@ -8,12 +8,16 @@ Add feature for modeTabs.js
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
-| 1d8d7d2 | update style.css's sidemenu feature | 37
+| Commit ID | Commit Message | # Lines Changed |
+|-----------|---------------|-----------------|
+| 5d1ca87 | Add mode name and route maps to main.js | 17 |
+| a385226 | Add mode tab state stores to main.js | 16 |
+| e4ee987 | Add mode tab DOM references to main.js | 4 |
+| 0c25223 | add switchMode function to modeTabs.js | 21 |
+| a3c7242 | add Bind switchMode() to each tab button's click handler to modeTabs.js | 2 |
+| 525143a | add KeyDownModeTabFocused function to modeTabs.js | 29 |
 
-
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 6
 
 
 ### cherry-pick
