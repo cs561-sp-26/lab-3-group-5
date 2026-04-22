@@ -82,3 +82,40 @@
         }
     });
 }
+
+/*************************************************************************
+ * @function Dialog Box Cancel Button CLICK handler
+ * @Desc
+ * When the user clicks on the cancel button in a dialog box, we
+ * close the dialog box; restore the navigation bar buttons;
+ *  show the mode tabs; restore the current mode's main page; and set the
+ * focus to the current mode's action button. We use currentMode to
+ * determine which mode we're in.
+ * @global currentMode: index of current mode
+ * @global modeTabsContainer: the <div> containing the mode tab buttons
+ * @global modeTabPanels: array of tab panels for each mode
+ * @global modeActionDialogs: array of dialog boxes for each mode
+ * @global dialogActionButtons: array of default ("OK") buttons for
+ * each mode's dialog box
+ *************************************************************************/
+/* Dialog Cancel Button Click Handler */
+for (let i = 0; i < GlobalDialogCancelButtons.length; ++i) {
+    GlobalDialogCancelButtons[i].addEventListener("click",function(e) {
+        //Hide dialog box
+        GlobalModeActionDialogs[GlobalCurrentMode.get()].classList.add("hidden");
+        //Show tab panel
+        GlobalModeTabPanels[GlobalCurrentMode.get()].classList.remove("hidden");
+        //Show and enable other UI elements
+        GlobalMenuBtn.classList.remove("disabled");
+        GlobalSearchBtn.classList.remove("disabled");
+        GlobalProfileBtn.classList.remove("disabled");
+        GlobalSkipLink.classList.remove("hidden");
+        GlobalModeTabsContainer.classList.remove("disabled");
+        //Set focus to floating action button
+        GlobalModeActionButtons[GlobalCurrentMode.get()].focus();
+        if (GlobalHistoryLogging) {
+            history.back();
+            console.log("Console: In GlobalDialogCancelButtons click handler; moving history stack pointer to previous frame.");
+        }
+    });
+}
