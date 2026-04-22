@@ -10,6 +10,9 @@ Add modal dialog HTML and JavaScript interaction behavior for the SpeedScore app
 
 | Commit ID | Commit Message | # Lines Changed |
 |-----------|---------------|-----------------|
-| TBD | Add floating action button click handler with dialog HTML for all modes | TBD |
+| a168135 | Add floating action button click handler with dialog HTML for all modes | 137 |
+| ebe91bb | Add dialog action button click handler to confirm and close dialogs | 37 |
+| 58eb6c5 | Add dialog cancel button click handler | 37 |
+| 7db9c3d | Add keyboard focus trapping for dialog navigation | 39 |
 
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 4
