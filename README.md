@@ -3,7 +3,7 @@
 
 ## Team Members
 - Hao Jun Chen (RayHao2)
-- Name 2 (GitHub ID 2)
+- Arman Hastings (AHastings)
 - Name 3 (GitHub ID 3)
 - Name 4 (GitHub ID 4)
 - Name 5 (GitHub ID 5)
@@ -12,8 +12,8 @@
 
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
-| Hao Jun Chen | 23 | 233 | 17
-| Name 2 | 8 | 20  | 2.5
+| Hao Jun Chen | 3 | 52 | 17
+| Arman Hastings | 1 | 164  | 164
 | Name 3 | 5 | 10 | 2
 | Name 4 | 3 | 5 | 1.67
 | Name 5 | 2 | 2  | 1
@@ -22,7 +22,7 @@
 ## Merge Conflicts Resolved
 | Name | # MCs Resolved | Merged Branch
 | --------- | ----------- | ---------------
-| Hao Jun Chen | 1 | `feature/mode-page-layout`
+| Name 1 | 2 | `feature/new-feature`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
@@ -31,7 +31,7 @@
 ## Rebases
 | Name | # Rebases | Within Branch
 | --------- | ----------- | ---------------
-| Hao Jun Chen | 1 | `feature/mode-page-layout`
+| Name 1 | 2 | `feature/new-feature`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
@@ -40,7 +40,7 @@
 ## Cherry Picks
 | Name | # Cherry Picks | From Branch
 | --------- | ----------- | ---------------
-| Hao Jun Chen| 3 | `feature/mode-tabs-navigation-js`
+| Name 1 | 2 | `feature/new-feature`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
