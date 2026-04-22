@@ -23,7 +23,7 @@
 | Name | # MCs Resolved | Merged Branch
 | --------- | ----------- | ---------------
 | Hao Jun Chen | 1 | `feature/mode-page-layout`
-| Name 2 | 1 | `feature/new-feature`
+| Predrag Despotović | 0 | N/A
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
 | Name 5 | 0 | `feature/new-feature`
