@@ -3,6 +3,7 @@
 
 ## Team Members
 - Hao Jun Chen (RayHao2)
+- Arman Hastings (AHastings)
 - Predrag Despotović (CyberWho)
 - Name 3 (GitHub ID 3)
 - Name 4 (GitHub ID 4)
@@ -31,7 +32,7 @@
 ## Rebases
 | Name | # Rebases | Within Branch
 | --------- | ----------- | ---------------
-| Hao Jun Chen | 1 | `feature/mode-page-layout`
+| Name 1 | 2 | `feature/new-feature`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
@@ -40,7 +41,7 @@
 ## Cherry Picks
 | Name | # Cherry Picks | From Branch
 | --------- | ----------- | ---------------
-| Hao Jun Chen| 3 | `feature/mode-tabs-navigation-js`
+| Name 1 | 2 | `feature/new-feature`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
