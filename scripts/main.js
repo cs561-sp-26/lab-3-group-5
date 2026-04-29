@@ -72,3 +72,26 @@ const GlobalModeTabButtons =
 //Array of mode tab panel elements:
 const GlobalModeTabPanels = 
   document.querySelectorAll("div[role='tabpanel']");
+
+/*****************************************************/
+/* FLOATING ACTION BUTTON AND MODAL DIALOG VARIABLES */
+/*****************************************************/
+//Array of mode action buttons
+const GlobalModeActionButtons = 
+  document.querySelectorAll("button.float-btn");
+//array of mode action dialog boxes
+const GlobalModeActionDialogs =
+  document.querySelectorAll("div.action-dialog");
+const GlobalDialogActionButtons =
+  document.querySelectorAll("button.action-button");
+//array of "Cancel" buttons within the dialog boxes
+const GlobalDialogCancelButtons =
+  document.querySelectorAll("button.cancel-button");
+
+/*****************************************************/
+/* OTHER UI COMPONENT VARIABLES */
+/*****************************************************/
+const GlobalSearchBtn = document.getElementById("searchBtn");
+const GlobalProfileBtn = document.getElementById("profileBtn");
+const GlobalSkipLink = document.getElementById("sLink");
+const GlobalModeTabsContainer = document.getElementById("modeTabs");

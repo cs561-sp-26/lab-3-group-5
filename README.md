@@ -4,6 +4,7 @@
 ## Team Members
 - Hao Jun Chen (RayHao2)
 - Arman Hastings (AHastings)
+- Predrag Despotović (CyberWho)
 - Name 3 (GitHub ID 3)
 - Name 4 (GitHub ID 4)
 - Name 5 (GitHub ID 5)
@@ -12,9 +13,9 @@
 
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
-| Hao Jun Chen | 3 | 52 | 17
-| Arman Hastings | 1 | 164  | 164
-| Name 3 | 5 | 10 | 2
+| Hao Jun Chen | 27 | 245 | 9
+| Predrag Despotović | 6 | 250 | 41.7
+| Arman Hastings | 1 | 164 | 164
 | Name 4 | 3 | 5 | 1.67
 | Name 5 | 2 | 2  | 1
 | **Totals** | **30** | **87** | **2.9**
@@ -22,8 +23,8 @@
 ## Merge Conflicts Resolved
 | Name | # MCs Resolved | Merged Branch
 | --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
-| Name 2 | 1 | `feature/new-feature`
+| Hao Jun Chen | 1 | `feature/mode-page-layout`
+| Predrag Despotović | 1 | `feature/document-keydown-handler`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
 | Name 5 | 0 | `feature/new-feature`
